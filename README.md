@@ -5,7 +5,7 @@
 
 ## 📊 Análisis de Deserción de Clientes (Churn)
 
-![Badge](https://img.shields.io/badge/ENTREGA-12/01/2026-pink)
+![Badge](https://img.shields.io/badge/ENTREGA-16/02/2026-pink)
 
 </div>
 
